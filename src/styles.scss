@@ -1,0 +1,45 @@
+// $primary: #276fc2;
+// $secondary: #e8d21d;
+// $border-radius: 1px;
+
+@import '../node_modules/bootstrap/scss/bootstrap';
+
+.address {
+  text-align: center;
+}
+
+h5 {
+  text-decoration: underline;
+  text-align: center;
+}
+h6 {
+  text-align: left;
+}
+
+a.btn.btn-primary.btn-lg.active {
+  font-size: medium;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+a.footer {
+  text-decoration: none;
+}
+
+.brand-logo {
+  width: 30px;
+  height: 30px;
+}
+
+.btn-group,
+.btn-group-vertical {
+  position: relative;
+  vertical-align: middle;
+}
+
+.btn-group,
+.btn-group-vertical {
+  position: relative;
+  vertical-align: middle;
+}
